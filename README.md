@@ -9,7 +9,9 @@
   System/Google Apps/GApps
   NanoDroid - tool to "ungoogle" your Phone automatically. It replaces all apps with Safe and OpenSource alternatives. Needs root!
   
-  
+Security apps
+Firewall
+[NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
 
 Browsers
 
@@ -35,12 +37,24 @@ WebView
   | Android SystemWebView | Bromite Webview*|
  
  *Bromite webview might not work with Banking apps, Fitness apps, Uber etc
+ 
+**Messaging (SMS, Skype etc)**
+
+  | App                   | Alternative     |
+  | --------------------- | ----------------|
+  | Android SMS           | [Silence](https://f-droid.org/en/packages/org.smssecure.smssecure)         |
   
-PlayStore
+**PlayStore**
   
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
   | Google Play    | F-Droid, YalpStore, Aurora Store |
+  
+Entertainment
+  | App            | Alternative                      |
+  | -------------- | ---------------------------------|
+  | YouTube        | [YouTube Vanced], [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/en/packages/free.rm.skytube.oss)|
+  | NetFlix        | [Libreflix](https://f-droid.org/en/packages/org.libreflix.app/)|
   
   
 Keyboards
