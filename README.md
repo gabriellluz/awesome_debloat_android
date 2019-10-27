@@ -17,35 +17,36 @@
 **Firewall**
   |App |    Description                    |
   |----|----------------------------|
-|[NetGuard]|(https://f-droid.org/en/packages/eu.faircode.netguard/)
+|[NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)|NetGuard provides simple and advanced ways to block access to the internet - no root required.|
 
-Browsers
+**Browsers**
 
   | App           | Alternative   |
   | ------------- | ------------- |
   | Google Chrome | Bromite       |
   | Firefox       | Bromite       |
-  
+  |-------------------------------|
   |Other options                  |
   |-------------------------------|
   |[Lightning Web Browser](https://f-droid.org/pt_BR/packages/acr.browser.lightning)          |
   
-Launchers
+**Launchers**
 
   | App            | Alternative          |
   | -------------- | ---------------------|
   | Pixel Launcher | Bliss Launcher       |
   |                | KISS Launcher        |
   
-WebView
+**WebView**
   | App            | Alternative            |
   | -------------- | -----------------------|
   | Android SystemWebView | Bromite Webview*|
-  
-Widgets
+   *Bromite webview might not work with Banking apps, Fitness apps, Uber etc
+   
+**Widgets**
 
  
- *Bromite webview might not work with Banking apps, Fitness apps, Uber etc
+
  
 **Messaging (SMS, Skype etc)**
 **SMS**
