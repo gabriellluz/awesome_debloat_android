@@ -6,16 +6,18 @@
   
   This list provides you with good alternatives but it also gives you a list of great open source apps, not only alternatives.
   
-  System/Google Apps/GApps
+  **System/Google Apps/GApps**
   
-  |App |    Link                    |
+  |App |    Description                    |
   |----|----------------------------|
-  |NanoDroid - tool to "ungoogle" your Phone automatically. It replaces all apps with Safe and OpenSource alternatives. Needs root!|https://github.com/Nanolx/NanoDroid|
+  |[NanoDroid](https://github.com/Nanolx/NanoDroid)|tool to "ungoogle" your Phone automatically. It replaces all apps with Safe and OpenSource alternatives. Needs root!|
   *To install NanoDroid safely, I recommend using MagiskManager. You can download and install NanoDroid through MagiskManager.
   
-Security apps
-Firewall
-[NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)
+**Security apps**
+**Firewall**
+  |App |    Description                    |
+  |----|----------------------------|
+|[NetGuard]|(https://f-droid.org/en/packages/eu.faircode.netguard/)
 
 Browsers
 
