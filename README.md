@@ -25,7 +25,6 @@
   | ------------- | ------------- |
   | Google Chrome | Bromite       |
   | Firefox       | Bromite       |
-  |-------------------------------|
   |Other options                  |
   |-------------------------------|
   |[Lightning Web Browser](https://f-droid.org/pt_BR/packages/acr.browser.lightning)          |
@@ -68,6 +67,12 @@
   | -------------- | ---------------------------------|
   | Google Play    | F-Droid, YalpStore, Aurora Store |
   
+**Block ads, trackers and protect your privacy**
+|App|Description|
+|AdAway|Ad blocker|
+|Energized.pro|Allows AdAway, MagiskManager and other apps to block ads by changing system host files|
+*Blokada is not included because it's not free anymore.
+  
 Entertainment
 Streaming
   | App            | Alternative                      |
@@ -76,6 +81,8 @@ Streaming
   | NetFlix        | [Libreflix](https://f-droid.org/en/packages/org.libreflix.app/)|
   
 Video Players
+Jellyfin (required a Jellyfin server)
+Kodi
 VLC for Android
   
 Podcasts
@@ -83,10 +90,14 @@ Podcasts
   | -------------- | ---------------------------------|
   | Podcast Addict | [AntennaPod](https://f-droid.org/pt_BR/packages/de.danoeh.antennapod)|
   
-File Managers
+**Spotify/Deezer/TuneIn/Tidal alternatives**
+|App|Description|
+|[MusicPiped](https://f-droid.org/pt_BR/packages/deep.ryd.rydplayer/)|MusicPiped is a full-featured music player that streams from YouTube instead of playing local files.|
+  
+**File Managers**
 Amaze File Manager
   
-Photo apps
+**Photo apps**
 [LeafPic Revived](https://f-droid.org/pt_BR/packages/com.alienpants.leafpicrevived/)
   
 Keyboards
@@ -105,7 +116,7 @@ Keyboards
   
   **Ridesharing apps**
 
-Note: this list of ridesharing apps is NOT free. I just present you with an alternative way to use those apps in a ungoogled phone.
+Note: this list of ridesharing apps is **NOT** free. I just present you with an alternative way to use those apps in a ungoogled phone.
 
   | App            | Alternative                                                       |
   | -------------- | ------------------------------------------------------------------|
