@@ -4,6 +4,13 @@
   System/Google Apps/GApps
   NanoDroid - tool to "ungoogle" your Phone automatically. It replaces all apps with Safe and OpenSource alternatives. Needs root!
   
+  
+  Browsers
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+  
   Google Chrome
   Bromite (Chromium plus ad blocking and privacy enhancements; take back your browser!)
   
