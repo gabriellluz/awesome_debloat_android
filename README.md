@@ -13,6 +13,10 @@ Browsers
   | Google Chrome | Bromite       |
   | Firefox       | Bromite       |
   
+  |Other options                  |
+  |-------------------------------|
+  |Lightning Web Browser(https://f-droid.org/pt_BR/packages/acr.browser.lightning)          |
+  
 Launchers
 
   | App            | Alternative          |
@@ -27,8 +31,11 @@ WebView
  
  *Bromite webview might not work with Banking apps, Fitness apps, Uber etc
   
-  Google Play
-  F-Droid
+PlayStore
+  
+  | App            | Alternative                      |
+  | -------------- | ---------------------------------|
+  | Google Play    | F-Droid, YalpStore, Aurora Store |
   
   Alarm
   Alarmio
