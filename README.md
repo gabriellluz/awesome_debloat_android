@@ -10,8 +10,8 @@
   
   |App |    Description                    |
   |----|----------------------------|
-  |[NanoDroid](https://github.com/Nanolx/NanoDroid)|tool to "ungoogle" your Phone automatically. It replaces all apps with Safe and OpenSource alternatives. Needs root!|
-  *To install NanoDroid safely, I recommend using MagiskManager. You can download and install NanoDroid through MagiskManager.
+  |[NanoDroid](https://downloads.nanolx.org/NanoDroid/Stable)|tool to "ungoogle" your Phone automatically. It replaces all apps with Safe and OpenSource alternatives. Needs root!|
+  *To install NanoDroid, you need to flash it with TWRP. Remember to always backup your system with TWRP first.
   
 **Security apps**
 **Firewall**
