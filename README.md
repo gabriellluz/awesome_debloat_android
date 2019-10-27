@@ -7,7 +7,10 @@
   This list provides you with good alternatives but it also gives you a list of great open source apps, not only alternatives.
   
   System/Google Apps/GApps
-  NanoDroid - tool to "ungoogle" your Phone automatically. It replaces all apps with Safe and OpenSource alternatives. Needs root!
+  
+  |App |    Link                    |
+  |NanoDroid - tool to "ungoogle" your Phone automatically. It replaces all apps with Safe and OpenSource alternatives. Needs root!|https://github.com/Nanolx/NanoDroid|
+  *To install NanoDroid safely, I recommend using MagiskManager
   
 Security apps
 Firewall
@@ -116,6 +119,9 @@ Social networks
   
   Tasker/Automate
   Easer (User-defined explicit automation for Android)
+  
+  Torrent
+[BiglyBT](https://f-droid.org/pt_BR/packages/com.biglybt.android.client/)
   
   VPN
   RiseUP VPN (Anarchist VPN, based on Bitmask VPN)
