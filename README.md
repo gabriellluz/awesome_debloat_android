@@ -102,10 +102,10 @@ VLC for Android
 
   | App            | Description                      |
   | -------------- | ---------------------------------|
-  | [AntennaPod](https://f-droid.org/pt_BR/packages/de.danoeh.antennapod) | Simple audiobook player
+  | [Voice](https://f-droid.org/pt_BR/packages/de.ph1b.audiobook/) | Simple audiobook player
 |
 
-https://f-droid.org/pt_BR/packages/de.ph1b.audiobook/
+
   
 **Spotify/Deezer/TuneIn/Tidal alternatives**
 
@@ -117,7 +117,10 @@ https://f-droid.org/pt_BR/packages/de.ph1b.audiobook/
 Amaze File Manager
   
 **Photo apps**
-[LeafPic Revived](https://f-droid.org/pt_BR/packages/com.alienpants.leafpicrevived/)
+
+|App|Description|
+|---|-----------|
+|[LeafPic Revived](https://f-droid.org/pt_BR/packages/com.alienpants.leafpicrevived/)|Advanced replacement for the default image gallery.|
   
 Keyboards
 
@@ -125,7 +128,7 @@ Keyboards
   |-------------------------------|
   |[AnySoftKeyboard](https://anysoftkeyboard.github.io/)          |
 
-*Useful because AnySoftKey does not send what you type anywhere. It's also available in many languages.
+*Useful because AnySoftKey does not send what you type anywhere. It's also available in many languages. Beware of other Keyboard apps because they can send your type text to their cloud servers without your consent.
   
   Alarm
   Alarmio
@@ -150,18 +153,26 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
   | App            | Alternative            |
   | -------------- | -----------------------|
   | Facebook       | [Frost for Facebook](https://f-droid.org/pt_BR/packages/com.pitchedapps.frost)     |
-
+ 
+  **Phone automation (Tasker/Automate/Locale alternatives)**
   
-  Tasker/Automate
-  Easer (User-defined explicit automation for Android)
+  | App            | Description            |
+  | -------------- | -----------------------|
+  |[Easer](https://f-droid.org/packages/ryey.easer.beta)|User-defined explicit automation for Android|
   
-  Torrent
-[BiglyBT](https://f-droid.org/pt_BR/packages/com.biglybt.android.client/)
+  **Torrent**
   
-  VPN
-  RiseUP VPN (Anarchist VPN, based on Bitmask VPN)
-  Bitmask VPN (Anarchist VPN)
-  Orbot (connects to Tor and also has a powerful VPN option. Allows enabling Tor only on selected apps)
+  | App            | Description            |
+  | -------------- | -----------------------|
+|[BiglyBT](https://f-droid.org/pt_BR/packages/com.biglybt.android.client/)|Opensource torrent client for phones, tablets, Chromebook & Android TV|
+  
+  **VPN**
+  
+  | App            | Description            |
+  | -------------- | -----------------------|
+  |RiseUP VPN |Anarchist VPN, based on Bitmask VPN|
+  |Bitmask VPN|Anarchist VPN|
+  |Orbot|connects to Tor and also has a powerful VPN option. Allows enabling Tor only on selected apps|
   
   Emulators
   Retroarch
