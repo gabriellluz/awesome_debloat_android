@@ -69,7 +69,13 @@
   
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
-  | Google Play    | F-Droid, YalpStore, Aurora Store |
+  | Google Play    | F-Droid, [YalpStore](https://f-droid.org/en/packages/com.github.kiliakin.yalpstore/), Aurora Store |
+  
+  |Other alternatives |
+  |-------------------|
+  |[APK Mirror](https://f-droid.org/en/packages/taco.apkmirror)         |
+  |[Amazon Store](https://www.amazon.com/androidapp)       |
+*Amazon requires you to create an account in order to download apps while APK Mirror only lets you download APKs.
   
 **Block ads, trackers and protect your privacy**
 
