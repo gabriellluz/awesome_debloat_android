@@ -75,22 +75,30 @@
 |Energized.pro|Allows AdAway, MagiskManager and other apps to block ads by changing system host files|
 *Blokada is not included because it's not free anymore.
   
-Entertainment
-Streaming
+**Entertainment**
+**Streaming**
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
   | YouTube        | [YouTube Vanced], [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/en/packages/free.rm.skytube.oss)|
   | NetFlix        | [Libreflix](https://f-droid.org/en/packages/org.libreflix.app/)|
   
-Video Players
+**Video Players**
 Jellyfin (required a Jellyfin server)
 Kodi
 VLC for Android
   
-Podcasts
+**Podcasts**
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
   | Podcast Addict | [AntennaPod](https://f-droid.org/pt_BR/packages/de.danoeh.antennapod)|
+  
+**Audiobooks**
+  | App            | Description                      |
+  | -------------- | ---------------------------------|
+  | [AntennaPod](https://f-droid.org/pt_BR/packages/de.danoeh.antennapod) | Simple audiobook player
+|
+
+https://f-droid.org/pt_BR/packages/de.ph1b.audiobook/
   
 **Spotify/Deezer/TuneIn/Tidal alternatives**
 |App|Description|
