@@ -35,6 +35,9 @@ WebView
   | App            | Alternative            |
   | -------------- | -----------------------|
   | Android SystemWebView | Bromite Webview*|
+  
+Widgets
+
  
  *Bromite webview might not work with Banking apps, Fitness apps, Uber etc
  
@@ -59,11 +62,25 @@ WebView
   | Google Play    | F-Droid, YalpStore, Aurora Store |
   
 Entertainment
+Streaming
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
   | YouTube        | [YouTube Vanced], [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/en/packages/free.rm.skytube.oss)|
   | NetFlix        | [Libreflix](https://f-droid.org/en/packages/org.libreflix.app/)|
   
+Video Players
+VLC for Android
+  
+Podcasts
+  | App            | Alternative                      |
+  | -------------- | ---------------------------------|
+  | Podcast Addict | [AntennaPod](https://f-droid.org/pt_BR/packages/de.danoeh.antennapod)|
+  
+File Managers
+Amaze File Manager
+  
+Photo apps
+[LeafPic Revived](https://f-droid.org/pt_BR/packages/com.alienpants.leafpicrevived/)
   
 Keyboards
 
