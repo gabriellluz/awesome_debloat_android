@@ -54,7 +54,9 @@ Keyboards
   
   Launchers
   Bliss Launcher
-Ridesharing apps
+  
+  **Ridesharing apps**
+
 Note: this list of ridesharing apps is NOT free. I just present you with an alternative way to use those apps in a ungoogled phone.
 
   | App            | Alternative                                                       |
