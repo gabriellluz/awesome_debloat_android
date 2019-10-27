@@ -4,7 +4,7 @@
   
   **Remember: your data is YOUR data. Always.**
   
-  This list provides you with good alternatives but it also gives you a list of great open source apps, not only alternatives.
+  This list provides you with good alternatives but it also gives you a list of great open source apps, not only alternatives. **Note:** *all apps below have been tested successfully on an Android Phone with NanoDroid.*
   
   **System/Google Apps/GApps**
   
@@ -18,7 +18,7 @@
 
   |App |    Description                    |
   |----|----------------------------|
-|[NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)|NetGuard provides simple and advanced ways to block access to the internet - no root required.|
+|[NetGuard](https://f-droid.org/packages/eu.faircode.netguard/)|NetGuard provides simple and advanced ways to block access to the internet - no root required.|
 
 **Browsers**
 
@@ -29,7 +29,7 @@
   
   
   |Other options                  |
-  |[Lightning Web Browser](https://f-droid.org/pt_BR/packages/acr.browser.lightning)          |
+  |[Lightning Web Browser](https://f-droid.org/packages/acr.browser.lightning)          |
   
 **Launchers**
 
@@ -55,14 +55,14 @@
 
   | App                   | Alternative     |
   | --------------------- | ----------------|
-  | Android SMS           | [Silence](https://f-droid.org/en/packages/org.smssecure.smssecure)         |
+  | Android SMS           | [Silence](https://f-droid.org/packages/org.smssecure.smssecure)         |
   
 **Email clients**
 
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
-  | Gmail, Outlook,| [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)|
-  | etc            | [K-9 Mail](https://f-droid.org/pt_BR/packages/com.fsck.k9)
+  | Gmail, Outlook,| [FairEmail](https://f-droid.org/packages/eu.faircode.email/)|
+  | etc            | [K-9 Mail](https://f-droid.org/packages/com.fsck.k9)
   *Using email clients is not recommended since you might lose your phone and be blackmailed about your messages.
   
 **PlayStore**
@@ -84,8 +84,8 @@
 
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
-  | YouTube        | [YouTube Vanced], [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/en/packages/free.rm.skytube.oss)|
-  | NetFlix        | [Libreflix](https://f-droid.org/en/packages/org.libreflix.app/)|
+  | YouTube        | [YouTube Vanced], [New Pipe](https://f-droid.org/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/en/packages/free.rm.skytube.oss)|
+  | NetFlix        | [Libreflix](https://f-droid.org/packages/org.libreflix.app/)|
   
 **Video Players**
 Jellyfin (required a Jellyfin server)
@@ -96,13 +96,13 @@ VLC for Android
 
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
-  | Podcast Addict | [AntennaPod](https://f-droid.org/pt_BR/packages/de.danoeh.antennapod)|
+  | Podcast Addict | [AntennaPod](https://f-droid.org/packages/de.danoeh.antennapod)|
   
 **Audiobooks**
 
   | App            | Description                      |
   | -------------- | ---------------------------------|
-  | [Voice](https://f-droid.org/pt_BR/packages/de.ph1b.audiobook/) | Simple audiobook player
+  | [Voice](https://f-droid.org/packages/de.ph1b.audiobook/) | Simple audiobook player
 |
 
 
@@ -111,7 +111,7 @@ VLC for Android
 
 |App|Description|
 |---|-----------|
-|[MusicPiped](https://f-droid.org/pt_BR/packages/deep.ryd.rydplayer/)|MusicPiped is a full-featured music player that streams from YouTube instead of playing local files.|
+|[MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/)|MusicPiped is a full-featured music player that streams from YouTube instead of playing local files.|
   
 **File Managers**
 Amaze File Manager
@@ -120,7 +120,8 @@ Amaze File Manager
 
 |App|Description|
 |---|-----------|
-|[LeafPic Revived](https://f-droid.org/pt_BR/packages/com.alienpants.leafpicrevived/)|Advanced replacement for the default image gallery.|
+|[LeafPic Revived](https://f-droid.org/packages/com.alienpants.leafpicrevived/)|Advanced replacement for the default image gallery.|
+|[Simple Gallery Pro](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)|Offline gallery without ads. Organize, edit, recover and protect photos & videos|
   
 Keyboards
 
@@ -152,7 +153,7 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
 
   | App            | Alternative            |
   | -------------- | -----------------------|
-  | Facebook       | [Frost for Facebook](https://f-droid.org/pt_BR/packages/com.pitchedapps.frost)     |
+  | Facebook       | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost)     |
  
   **Phone automation (Tasker/Automate/Locale alternatives)**
   
@@ -164,7 +165,7 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
   
   | App            | Description            |
   | -------------- | -----------------------|
-|[BiglyBT](https://f-droid.org/pt_BR/packages/com.biglybt.android.client/)|Opensource torrent client for phones, tablets, Chromebook & Android TV|
+|[BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/)|Opensource torrent client for phones, tablets, Chromebook & Android TV|
   
   **VPN**
   
