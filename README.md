@@ -15,7 +15,7 @@ Browsers
   
   |Other options                  |
   |-------------------------------|
-  |Lightning Web Browser(https://f-droid.org/pt_BR/packages/acr.browser.lightning)          |
+  |[Lightning Web Browser](https://f-droid.org/pt_BR/packages/acr.browser.lightning)          |
   
 Launchers
 
