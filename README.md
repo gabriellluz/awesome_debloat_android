@@ -13,11 +13,19 @@ Browsers
   | Google Chrome | Bromite       |
   | Firefox       | Bromite       |
   
-  Google Chrome
-  Bromite (Chromium plus ad blocking and privacy enhancements; take back your browser!)
+Launchers
+
+  | App            | Alternative          |
+  | -------------- | ---------------------|
+  | Pixel Launcher | Bliss Launcher       |
+  |                | KISS Launcher        |
   
-  WebView
-  Bromite SystemWebView (some apps might not working if using Bromite WebView such as Banking apps)
+WebView
+  | App            | Alternative            |
+  | -------------- | -----------------------|
+  | Android SystemWebView | Bromite Webview*|
+ 
+ *Bromite webview might not work with Banking apps, Fitness apps, Uber etc
   
   Google Play
   F-Droid
