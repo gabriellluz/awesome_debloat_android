@@ -11,7 +11,7 @@
   |App |    Link                    |
   |----|----------------------------|
   |NanoDroid - tool to "ungoogle" your Phone automatically. It replaces all apps with Safe and OpenSource alternatives. Needs root!|https://github.com/Nanolx/NanoDroid|
-  *To install NanoDroid safely, I recommend using MagiskManager
+  *To install NanoDroid safely, I recommend using MagiskManager. You can download and install NanoDroid through MagiskManager.
   
 Security apps
 Firewall
