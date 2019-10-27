@@ -8,10 +8,10 @@
 
 Browsers
 
-  | First Header  | Second Header |
+  | App           | Alternative   |
   | ------------- | ------------- |
-  | Content Cell  | Content Cell  |
-  | Content Cell  | Content Cell  |
+  | Google Chrome | Bromite       |
+  | Firefox       | Bromite       |
   
   Google Chrome
   Bromite (Chromium plus ad blocking and privacy enhancements; take back your browser!)
