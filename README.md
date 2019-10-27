@@ -108,8 +108,7 @@ VLC for Android
 
   | App            | Description                      |
   | -------------- | ---------------------------------|
-  | [Voice](https://f-droid.org/packages/de.ph1b.audiobook/) | Simple audiobook player
-|
+  | [Voice](https://f-droid.org/packages/de.ph1b.audiobook/) | Simple audiobook player|
 
 
   
@@ -140,8 +139,21 @@ Keyboards
   Alarm
   Alarmio
   
-  Launchers
-  Bliss Launcher
+  **Launchers**
+  
+  |App | Description|
+  |[Bliss Launcher]|(https://f-droid.org/en/packages/foundation.e.blisslauncher)|
+  |[Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah)|Pixel Launcher features plus customizability
+|
+  
+  
+  **Transport and GPS**
+  
+  **GPS Navigation**
+  
+  |App|Description|
+|---|-----------|
+|OSMand|Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps|
   
   **Ridesharing apps**
 
@@ -152,7 +164,7 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
   | Uber           | Access **m.uber.com** using Bromite. Create a desktop shortcut.   |
   *Using Uber on Bromite will not track your system like Uber official app can do if they want to.
   
-  Plex Media/Emby
+**Plex Media/Emby**
   Jellyfin client app (needs Jellyfin server, which is also free and opensource, no paid version available :))
 
 **Social networks**
@@ -166,6 +178,8 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
   | App            | Description            |
   | -------------- | -----------------------|
   |[Easer](https://f-droid.org/packages/ryey.easer.beta)|User-defined explicit automation for Android|
+  |[WiFi Automatic](https://f-droid.org/en/packages/de.j4velin.wifiAutoOff)|Turn off WiFi automatically
+|
   
   **Torrent**
   
@@ -185,4 +199,4 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
   Retroarch
   PPSSPP
   
-  While we have some great alternatives and/or opensource apps above, allowing us to have a completely "Google-free" Android phone, most apps that rely on Google Apps infrastruture might not work such as Uber, Facebook, Runtastic etc. Below we have a list of apps that are NOT opensource but are known to work using a Google-free phone (i.e. using NanoDroid, /e/ OS etc)
+  While we have some great alternatives and/or opensource apps above, allowing us to have a completely "Google-free" Android phone, most apps that rely on Google Apps infrastruture might not work such as Uber, Facebook, Runtastic etc. Below we have a list of apps that are NOT opensource but are known to work using a Google-free phone (i.e. using NanoDroid, /e/ OS etc). That means they don't require Google Play Services.
