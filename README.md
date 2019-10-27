@@ -15,6 +15,7 @@
   
 **Security apps**
 **Firewall**
+
   |App |    Description                    |
   |----|----------------------------|
 |[NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/)|NetGuard provides simple and advanced ways to block access to the internet - no root required.|
@@ -38,6 +39,7 @@
   |                | KISS Launcher        |
   
 **WebView**
+
   | App            | Alternative            |
   | -------------- | -----------------------|
   | Android SystemWebView | Bromite Webview*|
@@ -56,6 +58,7 @@
   | Android SMS           | [Silence](https://f-droid.org/en/packages/org.smssecure.smssecure)         |
   
 **Email clients**
+
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
   | Gmail, Outlook,| [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)|
@@ -69,6 +72,7 @@
   | Google Play    | F-Droid, YalpStore, Aurora Store |
   
 **Block ads, trackers and protect your privacy**
+
 |App|Description|
 |---|-----------|
 |AdAway|Ad blocker|
@@ -77,6 +81,7 @@
   
 **Entertainment**
 **Streaming**
+
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
   | YouTube        | [YouTube Vanced], [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe), [SkyTube](https://f-droid.org/en/packages/free.rm.skytube.oss)|
@@ -88,11 +93,13 @@ Kodi
 VLC for Android
   
 **Podcasts**
+
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
   | Podcast Addict | [AntennaPod](https://f-droid.org/pt_BR/packages/de.danoeh.antennapod)|
   
 **Audiobooks**
+
   | App            | Description                      |
   | -------------- | ---------------------------------|
   | [AntennaPod](https://f-droid.org/pt_BR/packages/de.danoeh.antennapod) | Simple audiobook player
@@ -101,6 +108,7 @@ VLC for Android
 https://f-droid.org/pt_BR/packages/de.ph1b.audiobook/
   
 **Spotify/Deezer/TuneIn/Tidal alternatives**
+
 |App|Description|
 |---|-----------|
 |[MusicPiped](https://f-droid.org/pt_BR/packages/deep.ryd.rydplayer/)|MusicPiped is a full-featured music player that streams from YouTube instead of playing local files.|
@@ -137,7 +145,8 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
   Plex Media/Emby
   Jellyfin client app (needs Jellyfin server, which is also free and opensource, no paid version available :))
 
-Social networks
+**Social networks**
+
   | App            | Alternative            |
   | -------------- | -----------------------|
   | Facebook       | [Frost for Facebook](https://f-droid.org/pt_BR/packages/com.pitchedapps.frost)     |
