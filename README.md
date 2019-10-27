@@ -39,10 +39,18 @@ WebView
  *Bromite webview might not work with Banking apps, Fitness apps, Uber etc
  
 **Messaging (SMS, Skype etc)**
+**SMS**
 
   | App                   | Alternative     |
   | --------------------- | ----------------|
   | Android SMS           | [Silence](https://f-droid.org/en/packages/org.smssecure.smssecure)         |
+  
+**Email clients**
+  | App            | Alternative                      |
+  | -------------- | ---------------------------------|
+  | Gmail, Outlook,| [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)|
+  | etc            | [K-9 Mail](https://f-droid.org/pt_BR/packages/com.fsck.k9)
+  *Using email clients is not recommended since you might lose your phone and be blackmailed about your messages.
   
 **PlayStore**
   
