@@ -199,4 +199,12 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
   Retroarch
   PPSSPP
   
-  While we have some great alternatives and/or opensource apps above, allowing us to have a completely "Google-free" Android phone, most apps that rely on Google Apps infrastruture might not work such as Uber, Facebook, Runtastic etc. Below we have a list of apps that are NOT opensource but are known to work using a Google-free phone (i.e. using NanoDroid, /e/ OS etc). That means they don't require Google Play Services.
+  While we have some great alternatives and/or opensource apps above, allowing us to have a completely "Google-free" Android phone, most apps that rely on Google Apps infrastruture might not work such as Uber, Facebook, Runtastic etc. Below we have a list of apps that are NOT opensource but are known to work using a Google-free phone (i.e. using NanoDroid, /e/ OS etc). That means they don't require Google Play Services or can be used with microG only.
+  
+  FaceApp
+  MagiskManager
+  Popcorn Time
+  Sleep as Android
+  Stellio MediaPlayer
+  YouTube Vanced (needs microG)
+  WhatsApp (needs microG)
