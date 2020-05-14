@@ -9,10 +9,7 @@
   **Operating systems for Android/Custom firmware**
   |App |    Description                    |
   |----|----------------------------|
-  |[Havoc OS](https://sourceforge.net/projects/havoc-os/files/)|Havoc-OS 3.x is based on AOSP, inspired by Google Pixel.
-Has a refined Material Design 2 UI crafted by @SKULSHADY.
-Many useful features that will blow your mind.
-All you can dream of and all you'll ever need.|
+  |[Havoc OS](https://sourceforge.net/projects/havoc-os/files/)|Havoc-OS 3.x is based on AOSP, inspired by Google Pixel. Has a refined Material Design 2 UI crafted by @SKULSHADY. Many useful features that will blow your mind. All you can dream of and all you'll ever need.|
   |[CrDroid](https://crdroid.net/)|crDroid is a customized fork of LineageOS Android. It is one of the first to provide unofficial Android 10 ROMs.|
   |[/e/](https://e.foundation/)|deGoogled unGoogled mobile OS and online services|
   |[Sailfish](https://sailfishos.org/)|Sailfish OS is a Linux-based operating system based on open source projects such as Mer and including a closed source UI.|
