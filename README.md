@@ -6,6 +6,15 @@
   
   This list provides you with good alternatives but it also gives you a list of great open source apps, not only alternatives. **Note:** *all apps below have been tested successfully on an Android Phone with NanoDroid.*
   
+  **Operating systems for Android/Custom firmware**
+  |[Havoc OS](https://sourceforge.net/projects/havoc-os/files/)|Havoc-OS 3.x is based on AOSP, inspired by Google Pixel.
+Has a refined Material Design 2 UI crafted by @SKULSHADY.
+Many useful features that will blow your mind.
+All you can dream of and all you'll ever need.|
+  |[CrDroid](https://crdroid.net/)|crDroid is a customized fork of LineageOS Android. It is one of the first to provide unofficial Android 10 ROMs.|
+  |[/e/](https://e.foundation/)|deGoogled unGoogled mobile OS and online services|
+  |[Sailfish](https://sailfishos.org/)|Sailfish OS is a Linux-based operating system based on open source projects such as Mer and including a closed source UI.|
+  
   **System/Google Apps/GApps**
   
   |App |    Description                    |
@@ -25,7 +34,7 @@
   | App           | Alternative   |
   | ------------- | ------------- |
   | Google Chrome | Bromite       |
-  | Firefox       | Bromite       |
+  | Firefox       | Fennec        |
   
   
   |Other options                  |
@@ -133,6 +142,7 @@ Keyboards
   |App                            |
   |-------------------------------|
   |[AnySoftKeyboard](https://anysoftkeyboard.github.io/)          |
+  |[OpenBoard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/)|
 
 *Useful because AnySoftKey does not send what you type anywhere. It's also available in many languages. Beware of other Keyboard apps because they can send your type text to their cloud servers without your consent.
   
@@ -143,8 +153,7 @@ Keyboards
   
   |App | Description|
   |[Bliss Launcher](https://f-droid.org/en/packages/foundation.e.blisslauncher)|A minimalist and FOSS Launcher|
-  |[Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah)|Pixel Launcher features plus customizability
-|
+  |[Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah)|Pixel Launcher features plus customizability|
   
   
   **Transport and GPS**
