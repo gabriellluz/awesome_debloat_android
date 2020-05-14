@@ -181,6 +181,7 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
   | -------------- | -----------------------|
   | Facebook       | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost)     |
   | Twitter        | [Twidere](https://f-droid.org/en/packages/org.mariotaku.twidere/)|
+  | Reddit         | [Slide](https://f-droid.org/en/packages/me.ccrama.redditslide/)|
  
   **Phone automation (Tasker/Automate/Locale alternatives)**
   
