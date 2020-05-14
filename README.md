@@ -7,6 +7,7 @@
   This list provides you with good alternatives but it also gives you a list of great open source apps, not only alternatives. **Note:** *all apps below have been tested successfully on an Android Phone with NanoDroid.*
   
   **Operating systems for Android/Custom firmware**
+  |----|----------------------------|
   |[Havoc OS](https://sourceforge.net/projects/havoc-os/files/)|Havoc-OS 3.x is based on AOSP, inspired by Google Pixel.
 Has a refined Material Design 2 UI crafted by @SKULSHADY.
 Many useful features that will blow your mind.
