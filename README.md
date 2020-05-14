@@ -35,9 +35,10 @@
   | Google Chrome | Bromite       |
   | Firefox       | Fennec        |
   
-  
   |Other options                  |
-  |[Lightning Web Browser](https://f-droid.org/packages/acr.browser.lightning)          |
+  | ------------- |
+  |[Lightning Web Browser](https://f-droid.org/packages/acr.browser.lightning)|Lightweight web browser|
+  |[JQuarks](https://f-droid.org/en/packages/com.oF2pks.jquarks/)|LineageOS Jelly browser +adsBlocker +tiles +offline_.mht +... |
   
 **Launchers**
 
@@ -77,7 +78,7 @@
   
   | App            | Alternative                      |
   | -------------- | ---------------------------------|
-  | Google Play    | F-Droid, [YalpStore](https://f-droid.org/en/packages/com.github.kiliakin.yalpstore/), Aurora Store |
+  | Google Play    | [F-Droid](https://f-droid.org/en/), [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)|
   
   |Other alternatives |
   |-------------------|
