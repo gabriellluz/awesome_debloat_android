@@ -136,13 +136,13 @@ Keyboards
 
 *Useful because AnySoftKey does not send what you type anywhere. It's also available in many languages. Beware of other Keyboard apps because they can send your type text to their cloud servers without your consent.
   
-  Alarm
-  Alarmio
+  **Alarms**
+  |[Alarmio](https://f-droid.org/en/packages/me.jfenn.alarmio/)|A great alternative to stock alarm|
   
   **Launchers**
   
   |App | Description|
-  |[Bliss Launcher]|(https://f-droid.org/en/packages/foundation.e.blisslauncher)|
+  |[Bliss Launcher](https://f-droid.org/en/packages/foundation.e.blisslauncher)|A minimalist and FOSS Launcher|
   |[Lawnchair](https://f-droid.org/en/packages/ch.deletescape.lawnchair.plah)|Pixel Launcher features plus customizability
 |
   
@@ -153,7 +153,7 @@ Keyboards
   
   |App|Description|
 |---|-----------|
-|OSMand|Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps|
+|[OSMand](https://f-droid.org/en/packages/net.osmand.plus/)|Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps|
   
   **Ridesharing apps**
 
@@ -161,7 +161,7 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
 
   | App            | Alternative                                                       |
   | -------------- | ------------------------------------------------------------------|
-  | Uber           | Access **m.uber.com** using Bromite. Create a desktop shortcut.   |
+  | [Uber](https://m.uber.com)| Access **m.uber.com** using Bromite. Create a desktop shortcut.   |
   *Using Uber on Bromite will not track your system like Uber official app can do if they want to.
   
 **Plex Media/Emby**
@@ -172,14 +172,14 @@ Note: this list of ridesharing apps is **NOT** free. I just present you with an 
   | App            | Alternative            |
   | -------------- | -----------------------|
   | Facebook       | [Frost for Facebook](https://f-droid.org/packages/com.pitchedapps.frost)     |
+  | Twitter        | [Twidere](https://f-droid.org/en/packages/org.mariotaku.twidere/)|
  
   **Phone automation (Tasker/Automate/Locale alternatives)**
   
   | App            | Description            |
   | -------------- | -----------------------|
   |[Easer](https://f-droid.org/packages/ryey.easer.beta)|User-defined explicit automation for Android|
-  |[WiFi Automatic](https://f-droid.org/en/packages/de.j4velin.wifiAutoOff)|Turn off WiFi automatically
-|
+  |[WiFi Automatic](https://f-droid.org/en/packages/de.j4velin.wifiAutoOff)|Turn off WiFi automatically|
   
   **Torrent**
   
