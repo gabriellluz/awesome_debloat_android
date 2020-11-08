@@ -1,4 +1,4 @@
-  Welcome to my list for replacing Google/Amazon apps on your Android Phone.
+  Welcome to my list for replacing apps that depend on Google Services on your Android Phone.
   
   # Awesome DEBloat by Gab [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gabriellluz/awesome_debloat_android)
   
@@ -54,8 +54,12 @@
   | Android SystemWebView | Bromite Webview*|
    *Bromite webview might not work with Banking apps, Fitness apps, Uber etc
    
-**Widgets**
-
+**Automation**
+  | App            | Alternative            |
+  | -------------- | -----------------------|
+  | Tasker | MacroDroid|
+  |        | Easer|
+  |        | Automate|
  
 
  
